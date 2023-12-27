@@ -1,0 +1,5 @@
+
+Ktypescript:S1128"/Remove this unused import of 'FontAwesomeIcon'.(Äõ¡ñ
+Ctypescript:S1128"'Remove this unused import of 'faCheck'.(„‹á´
+‹typescript:S6606-"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(Ğ›ãøÿÿÿÿ
+stypescript:S43259"RThis assertion is unnecessary since it does not change the type of the expression.(ÉÉŠ²ùÿÿÿÿ

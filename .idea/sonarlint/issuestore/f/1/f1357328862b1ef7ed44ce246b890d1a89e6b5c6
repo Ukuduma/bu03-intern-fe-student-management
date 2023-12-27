@@ -1,0 +1,6 @@
+
+Ktypescript:S1128"/Remove this unused import of 'FontAwesomeIcon'.(Äõ¡ñ
+Ctypescript:S1128"'Remove this unused import of 'faCheck'.(„‹á´
+Rtypescript:S1854"6Remove this useless assignment to variable "courseId".(çåàŒ
+‹typescript:S6606"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(Ğ›ãøÿÿÿÿ
+‹typescript:S6606S"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(Ğ›ãøÿÿÿÿ
